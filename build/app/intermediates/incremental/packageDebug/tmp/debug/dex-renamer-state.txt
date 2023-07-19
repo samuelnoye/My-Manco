@@ -1,0 +1,4 @@
+#Wed Jul 19 13:33:00 GMT 2023
+base.0=C\:\\Users\\SamuelNoye\\Documents\\Laxy Dev\\flutter_starter-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
